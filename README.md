@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jaime 👋
+
+![GitHub](https://user-images.githubusercontent.com/60892319/151997710-0c9a8fb1-72ea-4554-8ce2-e6cef62c7ef2.png)
+
+- 🔭 I’m currently working on EPM.
+- 🌱 I’m currently learning Python, Angular, Javascript.
+- 👯 I’m looking to collaborate on projects of software development.
+- 💬 Ask me about my professions.
+- 📫 How to reach me: LinkeidIn: https://www.linkedin.com/in/jaime-andres-moncayo-parra-7407a512b/.
+-                     Yotube   : https://studio.youtube.com/channel/UCh4_pbbHmwIZJNKdeCmECuQ/playlists
+- ⚡ Fun fact: I like Hockey.
 
 <!--
 **jaime1315321/jaime1315321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
