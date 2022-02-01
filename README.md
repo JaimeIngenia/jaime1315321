@@ -1,13 +1,15 @@
 ### Hi, I'm Jaime 👋
 
-![GitHub](https://user-images.githubusercontent.com/60892319/151997710-0c9a8fb1-72ea-4554-8ce2-e6cef62c7ef2.png)
+![gitHUb2](https://user-images.githubusercontent.com/60892319/152001603-443bd9d1-6738-452b-a516-2d35e5335e9e.png)
+
 
 - 🔭 I’m currently working on EPM.
 - 🌱 I’m currently learning Python, Angular, Javascript.
 - 👯 I’m looking to collaborate on projects of software development.
 - 💬 Ask me about my professions.
-- 📫 How to reach me: LinkeidIn: https://www.linkedin.com/in/jaime-andres-moncayo-parra-7407a512b/.
--                     Yotube   : https://studio.youtube.com/channel/UCh4_pbbHmwIZJNKdeCmECuQ/playlists
+- 📫 How to reach me: 
+- LinkeidIn: https://www.linkedin.com/in/jaime-andres-moncayo-parra-7407a512b/.
+- Yotube   : https://studio.youtube.com/channel/UCh4_pbbHmwIZJNKdeCmECuQ/playlists
 - ⚡ Fun fact: I like Hockey.
 
 <!--
